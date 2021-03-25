@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>XHTMLr</AssemblyName>
+    <RootNamespace>XHTMLr</RootNamespace>
+    <Company>Andy Edinborough</Company>
+    <AssemblyVersion>1.0.5.7</AssemblyVersion>
+    <FileVersion>1.0.5.7</FileVersion>
+    <Copyright>Copyright © Andy Edinborough 2012</Copyright>
+    <Version>1.0.5.7</Version>
+  </PropertyGroup>
+
+</Project>
